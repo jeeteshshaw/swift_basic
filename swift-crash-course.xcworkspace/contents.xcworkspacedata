@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Errors.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Optional.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Generics.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Extension.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Protocol.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Classes.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Enumeration.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Structure.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Self.playground">
+   </FileRef>
+   <FileRef
+      location = "group:IF_ELSE.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Operators.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Variables.playground">
+   </FileRef>
+</Workspace>
